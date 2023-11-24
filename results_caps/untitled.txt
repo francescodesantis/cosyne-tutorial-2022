@@ -1,0 +1,2 @@
+rates are the absolute number of spikes for nuclei and tones (see cap_tones_generate_rates)
+nacs are the number of active cells corresponding
