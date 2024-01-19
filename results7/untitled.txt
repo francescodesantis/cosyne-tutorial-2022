@@ -1,0 +1,7 @@
+parameters tuned to have -40 peak as in results6
+BUT:
+spike generator instead of sinusoidal poisson
+excitatory weight sbc2mso = 1 and not 3 as in mso fake, since convergence sbc to mso is 3 to 1
+c sbc e gbc = 1
+itd rounded 2
+sim 1 sec

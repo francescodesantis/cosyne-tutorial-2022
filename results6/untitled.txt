@@ -1,0 +1,17 @@
+MSO results with tau and weights adapted for having a peak in -40°
+only 1 channel active, no ILD (amp_max 0+-125) (risultati completi da -90 fino a +15 compreso)
+simulation of 10 seconds!!!
+
+C_mso = 1
+delays_mso = [1,1.3,1,0.45,0.44] #ms
+
+SBCs2MSO_weight = 3
+SBCs2MSO_inh_weight = -30
+MNTBCs2MSO_weights = [0, -30]
+n_battery = len(MNTBCs2MSO_weights)
+
+
+t_r_exc = 0.2
+t_r_in = 0.1
+t_d_exc = 0.5
+t_d_in = 0.1
