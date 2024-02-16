@@ -1,0 +1,5 @@
+dirac:
+trains with num_spikes = 10, inter_spike = 0.01 #us
+shifted between r/l with ITD (applied to left, positive = right leading)
+
+tested on all angles arange(-90,90,15)

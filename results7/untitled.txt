@@ -5,3 +5,8 @@ excitatory weight sbc2mso = 1 and not 3 as in mso fake, since convergence sbc to
 c sbc e gbc = 1
 itd rounded 2
 sim 1 sec
+
+outputs:
+controllo: ho picco a 100 Hz per 45 (left) e -45 (right) con asimmetria (FR a 60° diverso da quello a 30°):
+dovuto a discretizzazione angoli, avrei dovuto avere un picco a +/- 40°
+inh_block: ho asimmetria, dovuta a inibizione ipsilaterale (input_1)
