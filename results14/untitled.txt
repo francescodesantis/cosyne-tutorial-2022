@@ -1,0 +1,8 @@
+Pulse-packet network
+sdevs = [0,0.1] 
+Tone: 100 Hz
+ILD: 500 - 125 Hz
+Taus 15: [0.2, 0.1, 0.2, 0.01]
+delays: [1,1.3,1,0.45,0.44]
+SBCs2LSO_weight = 16.0
+MNTBCs2LSO_weight = -2.0

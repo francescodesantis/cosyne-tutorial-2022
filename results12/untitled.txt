@@ -1,0 +1,5 @@
+pulsepacket generators with ILD
+ANF firing rates modeled as in Kiang, 1963: centred intensity = 50 dB SPL (equal to - 70 dB in the paper)
+Firing rates in between 125 Hz and 500 Hz
+noise_rate = 0
+Taus 40

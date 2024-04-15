@@ -1,0 +1,5 @@
+taus decay ex and inh are changed to 0.33 and 0.6 respectively, the rise ones remain the same
+num_spikes = 10
+with the inhibition, the mso should fire for ipsilateral angles ranging between 19° : 32°, so with a peak in 25°
+only sdev = 0.1 of the pulsepacket generators
+no ild

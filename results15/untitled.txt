@@ -1,0 +1,3 @@
+Same as results14 but but for 1000 Hz
+Caps all set to 1 (SBC; GBC; MSO, LSO)
+No ILD

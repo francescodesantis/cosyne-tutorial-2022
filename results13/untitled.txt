@@ -1,0 +1,6 @@
+pulsepacket generators NO ILD
+
+Firing rates 312.5 Hz (centred with [125-500], corresponding to 0 values to)
+noise_rate = 0
+Taus40
+LSO sensitivity to ITDs

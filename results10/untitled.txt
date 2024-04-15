@@ -1,2 +1,3 @@
 usage of pulsepackets generator: produces a spike train contains Gaussian pulse packets centered about given times. 
 times od pulse centers were created with the np.linspace function
+no ILd
