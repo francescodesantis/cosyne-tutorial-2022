@@ -1,0 +1,5 @@
+delays_mso = [1,2,1,0.4,0.4] 
+NO ILD, sound at -70 dB
+4 input MSO
+SBCs2MSO_weight = 4.0
+SBCs2MSO_inh_weight = -2

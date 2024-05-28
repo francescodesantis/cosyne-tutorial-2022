@@ -1,0 +1,1 @@
+same as always, taus 15, but exc weight to lso lowed to 8. SBCs2LSO_weight = 8 #16.0

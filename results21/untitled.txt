@@ -1,3 +1,0 @@
-ild 10-50-100
-inhib_lso = -2
-gaussian on

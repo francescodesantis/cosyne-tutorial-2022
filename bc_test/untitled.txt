@@ -1,3 +1,0 @@
-Spike times di ANF, SBC, GBC
-Dati rete uguali a results7 MA Input: sin poisson gen
-h: high intensity -> amp_rate= 250 Hz invece che 125 Hz

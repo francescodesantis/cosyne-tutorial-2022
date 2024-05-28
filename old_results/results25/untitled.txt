@@ -1,0 +1,8 @@
+Tone: all
+Bell: yes
+
+ILD: [10 - 50 – 100] spikes/period
+Sdev: 0.1 ms
+
+Time: 1000 ms
+Taus40

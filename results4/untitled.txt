@@ -1,0 +1,1 @@
+as results1, but only for 100 Hz and I try to obtain value in Hz

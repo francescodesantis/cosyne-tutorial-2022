@@ -18,13 +18,14 @@ save = 0
 #Sensible parameters  --> TODO: file jameson
 tones = [100, 1000]
 angles = np.arange(-90,100,15)
-time_sim = 2 #ms
-ANF_device = 'SPG' #'SPG' #PulsePacket Generator vs Sinsoidal Poisson Generator
+time_sim = 1000 #ms
+ANF_device = 'PPG' #'SPG' #PulsePacket Generator vs Sinsoidal Poisson Generator
 ild_on = 1 #simulation with ILDs or only ITDs input
 gauss_on = 1 #for pure tone stimulation, inclusion of co
 
 ild_values = [10,55,100] #spikes #num of spikes for PPG
 sdev = 0.1 #ms #Standard Deviation for PPG spikes
+
 ild_rates = [100,125,300] #Hz #rates for SPG
 noise_rate = 0 # Hz #valid for both types
 
